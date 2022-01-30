@@ -1,0 +1,3 @@
+[console_scripts]
+deva = deva.__main__:main
+
