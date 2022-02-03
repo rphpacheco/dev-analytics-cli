@@ -1,10 +1,10 @@
 from setuptools import setup
 setup(
-    name = 'deva',
+    name = 'dev-analytics-cli',
     version = '0.1.0',
-    packages = ['deva'],
+    packages = ['features'],
     entry_points = {
         'console_scripts': [
-            'deva = deva.__main__:main'
+            'deva = features.__main__:main'
         ]
     })

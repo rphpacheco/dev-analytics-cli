@@ -25,7 +25,7 @@ folders = [
     ]],
 ]
 
-def build():
+def build(type):
     print('build project structure')
     rootPath = os.getcwd()
 

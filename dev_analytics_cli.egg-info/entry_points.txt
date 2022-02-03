@@ -1,0 +1,3 @@
+[console_scripts]
+deva = features.__main__:main
+
